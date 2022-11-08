@@ -454,7 +454,7 @@ header {
   position: fixed;
   left: 0;
   right: 0;
-  background-color: green;
+  background-color: purple;
   -webkit-transition: background-color 2s ease-out;
   -moz-transition: background-color 2s ease-out;
   -o-transition: background-color 2s ease-out;
